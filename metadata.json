@@ -1,0 +1,5 @@
+{
+  "name": "Geometric Golden Christmas Tree",
+  "description": "A high-performance interactive 3D Christmas tree made of thousands of geometric solids. Features golden PBR materials, bloom effects, and morphing animations between tree, explosion, and text states.",
+  "requestFramePermissions": []
+}
